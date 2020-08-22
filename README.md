@@ -8,7 +8,7 @@ Clone this forked repo to your machine
 
 Make a feature branch on your machine
 
-Create a new text file named your LastName_FirstName.txt
+Create a new text file named your LastName_FirstName.txt and tell us a little about yourself
 
 Add this file to your local branch
 
